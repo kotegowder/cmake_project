@@ -1,3 +1,3 @@
 # Learning CMAKE 
 
-[link text](/docs/notes.md)
+[my notes](/docs/notes.md)
