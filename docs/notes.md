@@ -11,3 +11,14 @@
 	6. make -j4
 	7. sudo make install
 	8. Check for cmake version : cmake --version
+
+## What is a Build System ? ##
+* It is a collection of tools for automating the program compilation
+* At its core, there is normally a functional based language. It maps a set of source resources(files) to a target (executable/libraries)
+* Build systems: Make, Ant, Jam, ...
+
+## What is CMake? ##
+* CMake stands for Cross Platform Make - build system manager
+* CMake builds build systems
+* Can be used for multiple programming languages
+* Open Source
