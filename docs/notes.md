@@ -22,3 +22,5 @@
 * CMake builds build systems
 * Can be used for multiple programming languages
 * Open Source
+
+![how_cmake_works](https://user-images.githubusercontent.com/15670283/58197403-ce303200-7ce9-11e9-9718-27a19fc8cb31.jpg)
